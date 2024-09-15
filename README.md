@@ -1,21 +1,10 @@
-Certainly! Here's the `README.md` content that you can use for your GitHub repository. You can copy and paste this into a file named `README.md` in your project directory.
-
----
-
-# RTMP Stream Viewer
+# Simple RTMP Stream Viewer 
 
 A Python-based RTMP (Real-Time Messaging Protocol) Stream Viewer application built with PyQt5 and OpenCV. This application allows you to run an RTMP server and view the incoming video stream with real-time statistics such as FPS, bitrate, and resolution.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Basic Usage](#basic-usage)
-  - [Command-Line Options](#command-line-options)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
+📥 Installation | 🚀 Usage ➡️ 📝 Basic 🔧 CLI | 🌟 Features | 📋 Requirements | 🤝 Contributing | ⚖️ License
 
 ## Installation
 
