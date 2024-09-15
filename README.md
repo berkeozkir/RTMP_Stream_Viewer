@@ -133,37 +133,6 @@ python rtmp_stream_viewer.py [options]
 - **NumPy**
 - **PyQt5**
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the Repository**: Click on the 'Fork' button at the top right corner of this page.
-2. **Clone Your Fork**:
-
-   ```bash
-   git clone https://github.com/your-username/rtmp-stream-viewer.git
-   ```
-
-3. **Create a New Branch**:
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-4. **Make Your Changes**: Implement your feature or fix.
-5. **Commit Your Changes**:
-
-   ```bash
-   git commit -am 'Add some feature'
-   ```
-
-6. **Push to the Branch**:
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-7. **Open a Pull Request**: Go to the original repository and open a pull request.
 
 ## License
 
