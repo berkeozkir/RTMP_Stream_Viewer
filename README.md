@@ -29,12 +29,6 @@ A Python-based RTMP (Real-Time Messaging Protocol) Stream Viewer application bui
 Open your terminal or command prompt and run the following command to install the necessary packages:
 
 ```bash
-pip install -r requirements.txt
-```
-
-**Note:** If you don't have a `requirements.txt` file, you can install the packages individually:
-
-```bash
 pip install asyncio opencv-python numpy PyQt5
 ```
 
