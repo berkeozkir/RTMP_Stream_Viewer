@@ -4,8 +4,7 @@ A Python-based RTMP (Real-Time Messaging Protocol) Stream Viewer application bui
 
 ## Table of Contents
 
-📥 Installation | 🚀 Usage ➡️ 📝 Basic 🔧 CLI | 🌟 Features | 📋 Requirements | 🤝 Contributing | ⚖️ License
-
+📥 [Installation](#installation) | 🚀 [Usage](#usage) ➡️ 📝 [Basic](#basic-usage) 🔧 [CLI](#command-line-options) | 🌟 [Features](#features) | 📋 [Requirements](#requirements) | 🤝 [Contributing](#contributing) | ⚖️ [License](#license)
 ## Installation
 
 ### Prerequisites
